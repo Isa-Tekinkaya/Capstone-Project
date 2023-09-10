@@ -21,13 +21,13 @@ Used Technologies:
 -React Router
 
 
-![Screenshot (88)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/f00265ea-bd5d-429d-979c-d4f41abd254c)
+(https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/f00265ea-bd5d-429d-979c-d4f41abd254c)
 
-![Screenshot (89)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/0c6c1786-f5c1-459e-9737-e56d824f34e3)
+(https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/0c6c1786-f5c1-459e-9737-e56d824f34e3)
 
-![Screenshot (90)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/8e1db2f8-2b39-478c-b940-49dc1ab838a8)
+!(https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/8e1db2f8-2b39-478c-b940-49dc1ab838a8)
 
-![Screenshot (89)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/72b1525c-dd69-4afa-a15d-a848c90bdc52)
+https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/72b1525c-dd69-4afa-a15d-a848c90bdc52
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
