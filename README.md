@@ -21,79 +21,16 @@ Used Technologies:
 -React Router
 
 
-![Screenshot (88)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/f00265ea-bd5d-429d-979c-d4f41abd254c)
+![sea_Saver](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/1e3b852d-6150-483f-a177-93a962ad9402)
 
-![Screenshot (89)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/0c6c1786-f5c1-459e-9737-e56d824f34e3)
+![Screenshot (90)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/72c08e52-9781-4e14-87f9-b7d28f8ff5d0)
 
-![Screenshot (90)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/8e1db2f8-2b39-478c-b940-49dc1ab838a8)
+![Screenshot (89)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/e20403fe-3ec4-4a7a-9bd2-2d3179417f50)
 
-![Screenshot (89)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/72b1525c-dd69-4afa-a15d-a848c90bdc52)
+![Screenshot (29)](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/4ed7cfb2-0728-4c7b-952b-0cd96758e079)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![NavBar_BG](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/f8be9fc1-5f18-46e4-9b8f-1af4b509bd62)
 
-## Available Scripts
+![NavBar_MD](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/48cca961-7af0-4f95-9084-f119c3359fbc)
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![NavBAr_SM](https://github.com/Isa-Tekinkaya/Capstone-Project/assets/42121090/5796b0fe-5614-4539-8af0-36cf879ff6d9)
