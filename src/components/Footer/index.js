@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="footerText">
-        {t("footer.text")} <b> Sea Saver </b>2023
+        {t("footer.text")} <b> Sea Saver </b>2024
       </p>
     </footer>
   );
