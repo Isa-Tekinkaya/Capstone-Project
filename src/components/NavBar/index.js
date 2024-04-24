@@ -29,7 +29,7 @@ function NavBar() {
             fixed="top"
             className={i18n.language === "en" ? "col-1" : "col-1"}
           >
-            <Link className="navLink" to="/">
+            <Link className="navLink" to="/Home">
               <img
                 src={logo}
                 width="70"
@@ -46,7 +46,7 @@ function NavBar() {
           >
             <Nav className="m-auto pt-3 pb-3">
               <Nav.Link eventKey={1}>
-                <Link className="navBarLinks m-4" to="/">
+                <Link className="navBarLinks m-4" to="/Home">
                   {t("home")}
                 </Link>
               </Nav.Link>
